@@ -20,9 +20,20 @@ Existe un dispositivo ESP-8266 que contien un script escrito en MicroPython, de 
 
 Necesita un disposito ESP-8266 y su implementacion como se muestra en la imagen.
 
-"insertar imagen aqui"
+![](esp/20201126_132527.jpg)
+
+![](esp/20201126_132545.jpg)
+
 
 Cuando conecte el dispositivo a la energia y este conectado a internet, automaticamente le avisara al usuario cada cierto tiempo si hay una baja conexion.
+
+## Reportes
+
+La pagina permitira saber a que hora se hicieron las peticiones del dispositivos e indicar cuanto tiempo demoraron
+
+La aplicacion desplegada en la nube podra generar graficas segun los tiempos determinados
+
+![](esp/report.PNG)
 
 ## Construido con
 
